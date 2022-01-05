@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pharmacistadel
+- 👋 Hi, I’m @pharmacist Adel
 - 👀 I’m interested in ..Pharmaceutical sciences and data analysis.
 - 🌱 I’m currently learning .Data analysis and machine learning
 - 💞️ I’m looking to collaborate on ..data analysis machine learning.
